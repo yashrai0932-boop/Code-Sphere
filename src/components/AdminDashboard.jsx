@@ -406,7 +406,7 @@ function AdminDashboard({ session, profile }) {
               <Settings size={22} />
             </div>
             <div style={{ display: 'flex', flexDirection: 'column' }}>
-              <span style={{ fontSize: '1.1rem', fontWeight: 800, letterSpacing: '-0.02em' }}>Nexus Hub</span>
+              <span style={{ fontSize: '1.1rem', fontWeight: 800, letterSpacing: '-0.02em' }}>TechLink</span>
               <span style={{ fontSize: '0.65rem', fontWeight: 700, textTransform: 'uppercase', color: '#34C759', letterSpacing: '0.1em' }}>Admin Console</span>
             </div>
           </div>

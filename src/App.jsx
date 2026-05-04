@@ -20,7 +20,7 @@ const AuthLayout = ({ children }) => (
         <nav>
           <div className="nav-brand" style={{ display: 'flex', alignItems: 'center', gap: '0.8rem' }}>
             <Logo size={32} color="var(--text-primary)" />
-            <span style={{ fontFamily: 'var(--font-brand)', fontSize: '1.2rem' }}>Nexus Hub</span>
+            <span style={{ fontFamily: 'var(--font-brand)', fontSize: '1.2rem' }}>TechLink</span>
           </div>
           <Link to="/" className="btn btn-secondary" style={{ padding: '0.4rem 1rem', fontSize: '0.85rem', textDecoration: 'none' }}>Home</Link>
         </nav>
@@ -388,7 +388,7 @@ function App() {
                         <nav>
                           <div className="nav-brand" style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
                             <Logo size={36} color="var(--text-primary)" />
-                            <span style={{ fontFamily: 'var(--font-brand)', fontSize: '1.5rem' }}>Nexus Hub</span>
+                            <span style={{ fontFamily: 'var(--font-brand)', fontSize: '1.5rem' }}>TechLink</span>
                           </div>
                           <Link to="/login" className="btn btn-primary" style={{ padding: '0.4rem 1.2rem', fontSize: '0.85rem', textDecoration: 'none' }}>Sign In</Link>
                         </nav>
@@ -398,7 +398,7 @@ function App() {
                       <div className="fade-in-up" style={{ paddingBottom: '5rem' }}>
                         <div className="hero-section">
                           <div className="hero-content">
-                            <div className="badge fade-in-up delay-1"><Sparkles size={14} /> Official Nexus Hub Platform</div>
+                            <div className="badge fade-in-up delay-1"><Sparkles size={14} /> Official TechLink Platform</div>
                             <h1 className="hero-title fade-in-up delay-1">The Future of <span className="text-gradient">Student Innovation.</span></h1>
                             <p className="hero-subtitle fade-in-up delay-2">Find teams, discover events, and build your projects with the unified collaboration engine.</p>
                             <div className="hero-actions fade-in-up delay-3">
@@ -419,7 +419,7 @@ function App() {
                           <div className="badge" style={{ margin: '0 auto 1.5rem auto' }}><Activity size={14} /> Featured Project</div>
                           <h2 style={{ fontSize: '3rem', fontWeight: 800, marginBottom: '1.5rem' }}>Made by Team <span className="text-gradient">CyberSphere</span></h2>
                           <p className="hero-subtitle" style={{ maxWidth: '800px', margin: '0 auto 4rem auto' }}>
-                            Discover high-impact projects built using the Nexus Hub. Team CyberSphere is revolutionizing digital security with their latest platform.
+                            Discover high-impact projects built using the TechLink. Team CyberSphere is revolutionizing digital security with their latest platform.
                           </p>
                           
                           <div className="glass-panel" style={{ padding: '2rem', borderRadius: '40px', overflow: 'hidden', border: '1px solid rgba(255,255,255,0.1)' }}>

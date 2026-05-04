@@ -917,7 +917,7 @@ function StudentDashboard({ session, profile, deferredPrompt, isInstalled }) {
           <div className="nav-brand" style={{ display: 'flex', alignItems: 'center', gap: '0.8rem' }}>
             <Logo size={40} />
             <div style={{ display: 'flex', flexDirection: 'column' }}>
-              <span style={{ fontSize: '1.4rem', fontWeight: 400, fontFamily: '"Righteous", cursive', color: 'var(--text-primary)', letterSpacing: '0.02em', lineHeight: 1 }}>Nexus Hub</span>
+              <span style={{ fontSize: '1.4rem', fontWeight: 400, fontFamily: '"Righteous", cursive', color: 'var(--text-primary)', letterSpacing: '0.02em', lineHeight: 1 }}>TechLink</span>
               <span style={{ fontSize: '0.65rem', fontWeight: 800, textTransform: 'uppercase', color: 'var(--accent)', letterSpacing: '0.15em', marginTop: '2px' }}>Hub Platform</span>
             </div>
           </div>
@@ -2177,7 +2177,7 @@ function StudentDashboard({ session, profile, deferredPrompt, isInstalled }) {
       </main>
 
       <footer className="container" style={{ padding: '2rem', textAlign: 'center', opacity: 0.5, fontSize: '0.8rem', fontWeight: 600 }}>
-        &copy; 2026 Nexus Hub Platform. Built for Excellence.
+        &copy; 2026 TechLink Platform. Built for Excellence.
       </footer>
     </div>
   );
