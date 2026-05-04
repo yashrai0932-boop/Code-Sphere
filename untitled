@@ -1,0 +1,4 @@
+git status
+git add .
+git commit -m "final_changes"
+git push origin main

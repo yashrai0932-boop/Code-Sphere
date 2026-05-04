@@ -1,0 +1,18 @@
+{
+  "id": "/?v=2",
+  "name": "Nexus Hub - Team Collaboration",
+  "short_name": "Nexus Hub",
+  "description": "Find the perfect team and discover cutting-edge campus events.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0c",
+  "theme_color": "#007AFF",
+  "icons": [
+    {
+      "src": "/logo_silver_v2.png?v=1714745440",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
